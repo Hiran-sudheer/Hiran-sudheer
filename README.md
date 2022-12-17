@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hiran Sudheer</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working on **Social media web**
+- 🔭 I’m currently working on **Full stack web**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vue**
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
